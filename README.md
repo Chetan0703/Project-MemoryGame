@@ -1,6 +1,6 @@
 # Project-MemoryGame
 
-## <b> [Click here to Play the GAME!!](https://nmnkmr.github.io/Project-MemoryCard/)
+## <b> [Click here to Play the GAME!!](https://chetan0703.github.io/Project-MemoryGame/)
 
 This project is made using HTML,CSS &amp; JavaScript.
 
